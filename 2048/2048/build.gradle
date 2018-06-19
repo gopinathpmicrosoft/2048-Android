@@ -9,7 +9,7 @@ android {
         targetSdkVersion 26
         versionCode 28
         versionName "3.0"
-        applicationId "com.tpcstld.twozerogame"
+        applicationId "com.gopip.twozerogame"
     }
     buildTypes {
         release {
