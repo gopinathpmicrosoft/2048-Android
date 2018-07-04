@@ -9,7 +9,7 @@ android {
         targetSdkVersion 26
         versionCode 28
         versionName "3.0"
-        applicationId "com.gopip.twozerogame"
+        applicationId "gopip.microsoft.com.app_center_test"
     }
     buildTypes {
         release {
